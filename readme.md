@@ -1,12 +1,12 @@
 =============
 
-### jQuery��keyframe�A�j���[�V�������w��
+### jQueryでkeyframeアニメーションを指定
 
 With jquery-keyframeAnimation, you can write CSS3 keyframes animation easily.
 And to replace FLASH, those animation designation use millisecond.
 
-jquery-keyframeAnimation�͊ȒP�Ȏw��� CSS3 �̕��G��Animation���w��ł��܂��B
-�܂��AFLASH�ō쐬�����A�j���[�V�����̓��e���w�肵�₷���悤�ɁA�t���[���J�E���g�̓~���b�Ŏw��ł��܂��B
+jquery-keyframeAnimationは簡単な指定で CSS3 の複雑なAnimationが指定できます。
+また、FLASHで作成したアニメーションの内容を指定しやすいように、フレームカウントはミリ秒で指定できます。
 
 
 jquery-keyframeAnimation is easy to designation, usefull for desingners.
@@ -15,13 +15,13 @@ DOM-object is set to last keyframe animation position, not first position.
 
 
 
-jquery-keyframeAnimation �͒�`���ȒP�ł��B�f�U�C�i����ɂ��x�����ȍ��ł��B
-DOM�I�u�W�F�N�g�́A�w�肳�ꂽ�A�j���[�V�����̍Ō�̈ʒu�Œ�~���܂��B
-�i���ʂ̓A�j���̍ŏ��̈ʒu�ɖ߂�܂��B���̓���͂��΂��΁A�f�U�C�i��������������܂��j
+jquery-keyframeAnimation は定義が簡単です。デザイナさんにもベンリな作りです。
+DOMオブジェクトは、指定されたアニメーションの最後の位置で停止します。
+（普通はアニメの最初の位置に戻ります。この動作はしばしば、デザイナさんを混乱させます）
 
 
 
-### �K�v�Ȃ���
+### 必要なもの
 
 
 jQuery (1.5 and below) 
