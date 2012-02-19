@@ -23,8 +23,12 @@ DOMオブジェクトは、指定されたアニメーションの最後の位�
 
 ### 必要なもの
 
-
 jQuery (1.5 and below) 
+
+
+more info and live demo :
+http://kohashi.github.com/kfAnimation/0.1.html
+
 
 
 jquery-keyframeAnimation is Copyright hako584. dual licensed under the MIT or BSD licenses.
