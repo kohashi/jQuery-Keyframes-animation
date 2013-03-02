@@ -26,8 +26,8 @@ DOMオブジェクトは、指定されたアニメーションの最後の位�
 jQuery (1.5 and below) 
 
 
-more info and live demo :
-http://kohashi.github.com/kfAnimation/0.1.html
+### live demo 
+http://kohashi.github.com/kfAnimation/1.1/1.1_jp_timeline.html
 
 
 
